@@ -10,7 +10,7 @@ import re
 
 urllib3.disable_warnings()
     
-proxies = { "http": None, "https": None}
+proxy = { "http": None, "https": None}
 
 
 def banner():
