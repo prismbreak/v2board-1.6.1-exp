@@ -6,4 +6,4 @@ python3 exp.py -l <url-list>
 
 ![image](https://user-images.githubusercontent.com/50661527/209645190-960958c3-1171-46af-ad5d-dcb64c3732e5.png)
 
-导出数据在 ./dump/domain/ 下
+导出数据在 ./dump/ 下
